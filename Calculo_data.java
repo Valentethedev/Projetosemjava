@@ -449,7 +449,7 @@ public class Calculo_data {
                     System.out.println(total);
 
                 }else{
-            total = dia_inicio - dia_fim;
+            total = dia_fim - dia_inicio;
             System.out.println(total);
         }        
         
